@@ -12,7 +12,7 @@ This project helped solidify foundational concepts in Jetpack Compose and UI des
 # Screenshots and Prototype
 Below is a screenshot of the app and its corresponding low-fidelity prototype:
 # Low-Fidelity Prototype
-![Space Art App-Page 1](https://github.com/user-attachments/assets/3af5fe39-7db6-4f27-917f-39a179bbceda)
+<img src ="https://github.com/user-attachments/assets/3af5fe39-7db6-4f27-917f-39a179bbceda" width ="300">
 # Final App Screenshot
 <img src ="https://github.com/user-attachments/assets/1b311aba-b6f6-4bf1-92f6-d0fc762f9755" width ="300">
 
